@@ -1,6 +1,6 @@
 #include <stdio.h>  //perror
 #include <errno.h>  //errno
-#include <fcntl.h>  //fopen
+#include <fcntl.h>  //open
 #include <string.h> //strerror
 int main()
 {

@@ -1251,9 +1251,9 @@ FFmpeg使用gdigrab采集窗口
 
 ## ffmpeg编译
 
-https://blog.csdn.net/qq_37363702/article/details/123277359
+1、https://blog.csdn.net/qq_37363702/article/details/123277359
 
-//编译最终没成功,但是作者提供了编程完成好的
+2、在msys中使用linux环境安装成功,见另一个文件（推荐）
 
 ## ngnix安装RTMP
 

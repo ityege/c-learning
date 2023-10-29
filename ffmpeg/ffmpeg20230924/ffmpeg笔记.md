@@ -1253,7 +1253,7 @@ FFmpeg使用gdigrab采集窗口
 
 1、https://blog.csdn.net/qq_37363702/article/details/123277359
 
-2、在msys中使用linux环境安装成功,见另一个文件（推荐）
+2、linux环境编译或者使用msys模拟linux环境编译,见另一个文件（推荐）
 
 ## ngnix安装RTMP
 
